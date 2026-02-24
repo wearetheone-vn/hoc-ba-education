@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>Khóa học HSK 5 - Học Bá Education</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Khóa học Tiếng Trung HSK 5",
+      "description": "Khóa học HSK 5 giúp học viên nâng cao 6 kỹ năng nghe, nói, đọc, viết, dịch và đánh máy, với hơn 4300 từ vựng và 357 chủ điểm ngữ pháp, chuẩn bị tốt cho kỳ thi HSK 5 và các công việc yêu cầu tiếng Trung chuyên nghiệp như gia sư, giáo viên, phiên dịch, đồng thời cung cấp nền tảng vững chắc để tiếp tục học nâng cao.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Học Bá Education",
+        "sameAs": "https://hoc-ba.edu.vn"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
