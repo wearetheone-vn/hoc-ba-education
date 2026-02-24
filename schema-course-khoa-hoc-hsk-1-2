@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>Khóa học HSK 1-2 - Học Bá Education</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Khóa học Tiếng Trung HSK 1-2",
+      "description": "Khóa học nền tảng dành cho người mới bắt đầu, giúp bạn phát âm chuẩn, ghi nhớ chữ Hán dễ dàng, nắm 600 từ vựng và 92 điểm ngữ pháp cơ bản. Sau khóa học, bạn có thể tự tin giao tiếp đơn giản và sẵn sàng thi HSK2.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Học Bá Education",
+        "sameAs": "https://hoc-ba.edu.vn"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
