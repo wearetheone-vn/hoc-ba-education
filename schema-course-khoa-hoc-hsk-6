@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>Khóa học HSK 6 - Học Bá Education</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Khóa học Tiếng Trung HSK 6",
+      "description": "Khóa học HSK 6 dành cho học viên đã đạt HSK 5, muốn nâng cao trình độ để thi HSK 6 hoặc phát triển sự nghiệp. Chương trình cung cấp >5500 từ vựng, 424 chủ điểm ngữ pháp và gần 40 chủ đề đa dạng. Giáo trình chuẩn kết hợp luyện thi chuyên sâu, giúp học viên tự tin chinh phục mục tiêu với lộ trình ngắn nhất.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Học Bá Education",
+        "sameAs": "https://hoc-ba.edu.vn"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
