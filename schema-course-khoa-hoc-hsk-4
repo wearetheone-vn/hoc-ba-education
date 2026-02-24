@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>Khóa học HSK 4 - Học Bá Education</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Khóa học Tiếng Trung HSK 4",
+      "description": "Khóa học HSK 4 giúp học viên nâng cao 4 kỹ năng tiếng Trung, tích lũy trên 3200 từ vựng, đủ kiến thức ngữ pháp và văn hóa xã hội Trung Quốc để thi HSK4 và tiếp tục học các khóa nâng cao.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Học Bá Education",
+        "sameAs": "https://hoc-ba.edu.vn"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
