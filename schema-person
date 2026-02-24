@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Giáo sư Baozhang He",
+  "url": "https://hoc-ba.edu.vn/chuyen-gia/gs-baozhang-he",
+  "image": "https://cdn-landing.hoc-ba.edu.vn/landing/GS%20Baozhang%20He.jpg",
+  "jobTitle": "Cố vấn chuyên môn",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Công ty Cổ phần Giáo dục & Đào tạo Học Bá"
+  }  
+}
+</script>
