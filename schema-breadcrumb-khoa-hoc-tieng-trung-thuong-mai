@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Trang chủ",
+    "item": "https://hoc-ba.edu.vn/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Tiếng Trung cho người đi làm",
+    "item": "https://hoc-ba.edu.vn/tieng-trung-cho-nguoi-di-lam"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Tiếng Trung Thương Mại",
+    "item": "https://hoc-ba.edu.vn/tieng-trung-cho-nguoi-di-lam/thuong-mai"  
+  }]
+}
+</script>
