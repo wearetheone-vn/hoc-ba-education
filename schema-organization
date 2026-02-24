@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Công ty Cổ phần Giáo dục & Đào tạo Học Bá",
+  "alternateName": "Học Bá Education",
+  "url": "https://hoc-ba.edu.vn/",
+  "logo": "Gắn link sau khi upload giao diện bản live",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+84888861786",
+    "contactType": "sales",
+    "areaServed": "VN",
+    "availableLanguage": "Vietnamese"
+  },
+  "sameAs": [
+    "https://www.facebook.com/hocba.education",
+    "https://www.instagram.com/hocba.education/"
+  ]
+}
+</script>
