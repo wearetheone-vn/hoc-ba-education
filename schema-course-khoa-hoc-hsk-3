@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>Khóa học HSK 3 - Học Bá Education</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Khóa học Tiếng Trung HSK 3",
+      "description": "Khóa học HSK 3 giúp học viên nắm vững hơn 2200 từ vựng, 210 chủ điểm ngữ pháp, và nâng cao khả năng giao tiếp tiếng Trung trong học tập, công việc, đời sống, chuẩn bị vững chắc cho kỳ thi HSK 3.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Học Bá Education",
+        "sameAs": "https://hoc-ba.edu.vn"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
