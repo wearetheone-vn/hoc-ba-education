@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Nguyễn Quốc Hùng",
+  "url": "https://staging-hocba.wowup.asia/doi-ngu-giang-vien/nguyen-quoc-hung",
+  "image": "Gắn URL ảnh đại diện của thầy Quốc Hùng đã được upload lên website",
+  "jobTitle": "Giảng viên",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Công ty Cổ phần Giáo dục & Đào tạo Học Bá"
+  }  
+}
+</script>
