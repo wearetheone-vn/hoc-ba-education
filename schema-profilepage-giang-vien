@@ -2,23 +2,23 @@
 {
   "@context": "https://schema.org",
   "@type": "ProfilePage",
-  "name": "Nguyễn Quốc Hùng - Giảng viên | Học Bá Education (Trích tự động từ tiêu đề SEO của trang giảng viên)",
-  "url": "https://hoc-ba.edu.vn/doi-ngu-giang-vien/nguyen-quoc-hung (Trích tự động từ URL SEO của trang giảng viên)",
-  "dateModified": "2026-02-28T09:00:00+07:00 (Cập nhật thời gian chỉnh sửa ND gần nhất của trang giảng viên này",
+  "name": "Nguyễn Quốc Hùng - Giảng viên | Học Bá Education",
+  "url": "https://hoc-ba.edu.vn/doi-ngu-giang-vien/nguyen-quoc-hung",
+  "dateModified": "2026-02-28T09:00:00+07:00",
   "mainEntity": {
     "@type": "Person",
-    "@id": "https://hoc-ba.edu.vn/doi-ngu-giang-vien/nguyen-quoc-hung#person" (Trích tự động từ URL SEO của trang giảng viên và thêm ký tự #person),
-    "name": "Nguyễn Quốc Hùng (Trích tự động từ tiêu đề của trang giảng viên (ko phải tiêu đề SEO)",
+    "@id": "https://hoc-ba.edu.vn/doi-ngu-giang-vien/nguyen-quoc-hung#person",
+    "name": "Nguyễn Quốc Hùng",
     "jobTitle": "Giảng viên",
     "worksFor": {
       "@id": "https://hoc-ba.edu.vn/#organization"
     },
-    "url": "https://hoc-ba.edu.vn/doi-ngu-giang-vien/nguyen-quoc-hung (Trích tự động từ URL SEO của trang giảng viên)",
-    "image": "https://hoc-ba.edu.vn/wp-content/uploads/nguyen-quoc-hung.jpg (Trích tự động từ URL ảnh thầy Hùng của trang giảng viên)",
-    "description": "Giảng viên tại Học Bá Education, chuyên đào tạo và giảng dạy tiếng Trung theo lộ trình bài bản, thực tiễn. (Trích tự động từ mô tả SEO của trang giảng viên)",
+    "url": "https://hoc-ba.edu.vn/doi-ngu-giang-vien/nguyen-quoc-hung",
+    "image": "https://hoc-ba.edu.vn/wp-content/uploads/nguyen-quoc-hung.jpg",
+    "description": "Giảng viên tại Học Bá Education, chuyên đào tạo và giảng dạy tiếng Trung theo lộ trình bài bản, thực tiễn.",
     "knowsAbout": [
       "Tiếng Trung giao tiếp",
-      "Luyện thi HSK",
+      "Luyện thi HSK"
     ]
   }
 }
