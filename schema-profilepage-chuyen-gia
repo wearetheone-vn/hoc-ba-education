@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "name": "GS. Baozhang He - Cố vấn chuyên môn | Học Bá Education",
+  "url": "https://hoc-ba.edu.vn/chuyen-gia/gs-baozhang-he",
+  "dateModified": "2026-02-28T09:00:00+07:00",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "https://hoc-ba.edu.vn/chuyen-gia/gs-baozhang-he#person",
+    "name": "GS. Baozhang He",
+    "jobTitle": "Cố vấn chuyên môn",
+    "worksFor": {
+      "@id": "https://hoc-ba.edu.vn/#organization"
+    },
+    "url": "https://hoc-ba.edu.vn/chuyen-gia/gs-baozhang-he",
+    "image": "https://hoc-ba.edu.vn/wp-content/uploads/nguyen-quoc-hung.jpg",
+    "description": "Cố vấn chuyên môn tại Học Bá Education, đồng hành xây dựng định hướng chuyên môn và chất lượng chương trình.",
+  }
+}
+</script>
