@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Học Bá Education",
+  "url": "https://hoc-ba.edu.vn/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://hoc-ba.edu.vn/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
