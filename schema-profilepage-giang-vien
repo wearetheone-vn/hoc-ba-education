@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "name": "Trích tự động từ tiêu đề SEO của trang giảng viên",
+  "url": "https://hoc-ba.edu.vn/doi-ngu-giang-vien/nguyen-quoc-hung",
+  "dateModified": "2026-02-28T09:00:00+07:00",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "https://hoc-ba.edu.vn/doi-ngu-giang-vien/nguyen-quoc-hung#person",
+    "name": "Nguyễn Quốc Hùng",
+    "jobTitle": "Giảng viên",
+    "worksFor": {
+      "@id": "https://hoc-ba.edu.vn/#organization"
+    },
+    "url": "https://hoc-ba.edu.vn/doi-ngu-giang-vien/nguyen-quoc-hung",
+    "image": "Gắn URL ảnh chân dung của thầy Hùng được upload trên website",
+    "description": "Trích tự động từ mô tả SEO của trang giảng viên",
+    "knowsAbout": [
+      "Tiếng Trung giao tiếp",
+      "Luyện thi HSK",
+      "Phát âm tiếng Trung"
+    ]
+  }
+}
+</script>
